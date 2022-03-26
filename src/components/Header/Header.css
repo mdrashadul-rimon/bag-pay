@@ -1,6 +1,6 @@
 .header{
     height: 80px;
-    background-color: #92abbb;
+    background-color: #1C2B35;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -16,7 +16,4 @@
 }
 .header a:hover{
     color: orange;
-}
-.custom-logo{
-    width: 15%;
 }

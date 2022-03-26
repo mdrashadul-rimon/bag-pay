@@ -1,0 +1,16 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+.cart-btn{
+    display: grid;
+    gap: 10px;
+}
+.custom-btn{
+    padding: 0 30px;
+    background-color: rgb(247, 176, 176);
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+}
